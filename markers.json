@@ -5,7 +5,23 @@
       "id": "orte",
       "label": "Orte",
       "visible": true,
-      "entries": []
+      "entries": [
+        {
+          "id": "edc74n1uj",
+          "type": "label",
+          "text": "Lago di Aufseß",
+          "detail": "",
+          "font": "mono",
+          "size": 1.1,
+          "weight": 400,
+          "spacing": 0.2,
+          "x": -909,
+          "y": -1,
+          "z": -763,
+          "uppercase": true,
+          "yOffset": 59
+        }
+      ]
     },
     {
       "id": "wege",
