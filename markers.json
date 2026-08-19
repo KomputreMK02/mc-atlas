@@ -688,7 +688,7 @@
       {
         "id": "tjl41zf78",
         "name": "Heiliges Römisches Reich",
-        "detail": "",
+        "detail": "Baddabing Baddaboom",
         "category": "staat",
         "nodes": [
           "no5fi2p67",
@@ -754,7 +754,10 @@
         "width": 4,
         "opacity": 0.13,
         "showLabel": true,
-        "yOffset": 0
+        "yOffset": 0,
+        "font": "serif",
+        "spacing": 0.06,
+        "uppercase": true
       },
       {
         "id": "tyn4hbtq5",
