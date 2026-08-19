@@ -121,9 +121,9 @@
         "z": -430
       },
       "n5la8z3ji": {
-        "x": -290,
-        "y": -1,
-        "z": -451
+        "x": -289,
+        "y": 63,
+        "z": -449
       },
       "new3rzb9h": {
         "x": -257,
@@ -570,16 +570,6 @@
         "y": -1,
         "z": -464
       },
-      "nkxpafbu9": {
-        "x": -297,
-        "y": 63,
-        "z": -464
-      },
-      "nky36g2rz": {
-        "x": -168,
-        "y": 0,
-        "z": -656
-      },
       "nl1tej9z4": {
         "x": -290,
         "y": -1,
@@ -644,6 +634,11 @@
         "x": -596,
         "y": -1,
         "z": -498
+      },
+      "n701japp3": {
+        "x": -149,
+        "y": 0,
+        "z": -656
       }
     },
     "ways": [
@@ -760,7 +755,7 @@
         "id": "tyn4hbtq5",
         "name": "Lassland",
         "detail": "",
-        "category": "kommune",
+        "category": "kolonie",
         "nodes": [
           "niveynoso",
           "nb75o811b",
@@ -804,7 +799,10 @@
         "width": 2,
         "opacity": 0.05,
         "showLabel": true,
-        "yOffset": 0
+        "yOffset": 0,
+        "font": "serif",
+        "spacing": 0.06,
+        "uppercase": false
       },
       {
         "id": "tajusne1t",
@@ -817,8 +815,13 @@
           "nce7oi8w8",
           "nbq7romq2",
           "ni78o33ie",
-          "nkxpafbu9",
-          "nky36g2rz",
+          "n5la8z3ji",
+          "new3rzb9h",
+          "n6s8m34om",
+          "najog2er7",
+          "n5d43fwa4",
+          "nesgbxj1k",
+          "n701japp3",
           "nl1tej9z4",
           "nd8mghf2g",
           "nps3is8vs",
