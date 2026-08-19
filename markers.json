@@ -587,8 +587,8 @@
       },
       "nj1r0qlm2": {
         "x": -428,
-        "y": -1,
-        "z": -792
+        "y": 0,
+        "z": -791
       },
       "n30nz8am6": {
         "x": -486,
@@ -679,21 +679,6 @@
         "x": -78,
         "y": -1,
         "z": -847
-      },
-      "nac2kjzu2": {
-        "x": -14,
-        "y": -1,
-        "z": -802
-      },
-      "n5onc3n9x": {
-        "x": -76,
-        "y": -1,
-        "z": -727
-      },
-      "ny4ptj823": {
-        "x": -86,
-        "y": -1,
-        "z": -667
       }
     },
     "ways": [
@@ -922,9 +907,15 @@
           "nn2tpbhxw",
           "nh1tffwgf",
           "nqbbggl8f",
-          "nac2kjzu2",
-          "n5onc3n9x",
-          "ny4ptj823"
+          "n11my4pjf",
+          "nr6m56aby",
+          "nl9etrqc0",
+          "nu0ll4kjq",
+          "nesgbxj1k",
+          "n701japp3",
+          "nl1tej9z4",
+          "nd8mghf2g",
+          "nps3is8vs"
         ],
         "parent": "tjl41zf78",
         "sizeFactor": 1,
