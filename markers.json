@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "layers": [
+    {
+      "id": "orte",
+      "label": "Orte",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "wege",
+      "label": "Wege",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "territorien",
+      "label": "Territorien",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "geschichte",
+      "label": "Geschichte",
+      "visible": false,
+      "entries": []
+    }
+  ]
+}
