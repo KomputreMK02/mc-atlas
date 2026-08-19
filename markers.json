@@ -752,7 +752,7 @@
         "opacity": 0.13,
         "showLabel": true,
         "yOffset": 0,
-        "font": "serif",
+        "font": "mono",
         "spacing": 0.06,
         "uppercase": true
       },
