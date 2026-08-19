@@ -693,10 +693,14 @@
           "nd3uwwyv7"
         ],
         "width": 3,
-        "yOffset": 0,
+        "yOffset": -5,
         "category": "bruecke",
         "showLabel": true,
-        "sizeFactor": 1
+        "sizeFactor": 1,
+        "distFactor": 1,
+        "font": "serif",
+        "spacing": 0.06,
+        "uppercase": false
       },
       {
         "id": "wg7gcu123",
