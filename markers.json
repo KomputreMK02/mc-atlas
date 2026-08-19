@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "layers": [
     {
       "id": "orte",
@@ -52,6 +52,18 @@
     {
       "id": "grenzen",
       "label": "Grenzen",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "kultur",
+      "label": "Kulturobjekte",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "sonstiges",
+      "label": "Sonstiges",
       "visible": true,
       "entries": [
         {
@@ -225,18 +237,6 @@
           "yOffset": 67
         }
       ]
-    },
-    {
-      "id": "kultur",
-      "label": "Kulturobjekte",
-      "visible": true,
-      "entries": []
-    },
-    {
-      "id": "sonstiges",
-      "label": "Sonstiges",
-      "visible": true,
-      "entries": []
     }
   ],
   "network": {
@@ -302,7 +302,7 @@
         "yOffset": 0,
         "category": "bruecke",
         "showLabel": true,
-        "labelSize": 0.95
+        "sizeFactor": 1
       },
       {
         "id": "wg7gcu123",
@@ -317,7 +317,7 @@
         "yOffset": 0,
         "category": "pfad",
         "showLabel": true,
-        "labelSize": 0.95
+        "sizeFactor": 1
       },
       {
         "id": "w1jalt4s9",
@@ -341,10 +341,41 @@
         ],
         "width": 4,
         "showLabel": true,
-        "labelSize": 0.95,
-        "yOffset": 0
+        "yOffset": 0,
+        "sizeFactor": 0.864
       }
     ],
-    "visible": true
+    "visible": true,
+    "territories": [
+      {
+        "id": "ti05nkpu3",
+        "name": "Heilges Römisches Reich",
+        "detail": "",
+        "category": "staat",
+        "nodes": [
+          "n2k17xv3i",
+          "nkhacx9oq",
+          "nzm1wza6k",
+          "n5ddv2dvs",
+          "n62q2kt33",
+          "nlfdqi8c0",
+          "n2xlgcvtk",
+          "neqdflzyx",
+          "n5gkol9po",
+          "nj5kms4h5",
+          "nr5jyqp8x"
+        ],
+        "parent": null,
+        "sizeFactor": 1,
+        "distFactor": 1,
+        "width": 4,
+        "opacity": 0.14,
+        "showLabel": true,
+        "yOffset": 0
+      }
+    ]
+  },
+  "settings": {
+    "labelDensity": 1
   }
 }
