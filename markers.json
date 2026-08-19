@@ -41,110 +41,7 @@
       "id": "siedlungen",
       "label": "Siedlungen",
       "visible": true,
-      "entries": [
-        {
-          "id": "e6pbiqwoi",
-          "category": "stadt",
-          "text": "Hauptstadt?",
-          "detail": "",
-          "points": [
-            {
-              "x": -563,
-              "z": -506
-            },
-            {
-              "x": -385,
-              "z": -504
-            },
-            {
-              "x": -369,
-              "z": -485
-            },
-            {
-              "x": -338,
-              "z": -481
-            },
-            {
-              "x": -335,
-              "z": -464
-            },
-            {
-              "x": -299,
-              "z": -462
-            },
-            {
-              "x": -175,
-              "z": -661
-            },
-            {
-              "x": -290,
-              "z": -663
-            },
-            {
-              "x": -356,
-              "z": -700
-            },
-            {
-              "x": -384,
-              "z": -752
-            },
-            {
-              "x": -428,
-              "z": -792
-            },
-            {
-              "x": -486,
-              "z": -752
-            },
-            {
-              "x": -513,
-              "z": -707
-            },
-            {
-              "x": -574,
-              "z": -678
-            },
-            {
-              "x": -623,
-              "z": -650
-            },
-            {
-              "x": -655,
-              "z": -610
-            },
-            {
-              "x": -659,
-              "z": -588
-            },
-            {
-              "x": -631,
-              "z": -549
-            },
-            {
-              "x": -625,
-              "z": -522
-            },
-            {
-              "x": -596,
-              "z": -498
-            }
-          ],
-          "y": -1,
-          "sizeFactor": 0.75,
-          "distFactor": 0.25,
-          "font": "mono",
-          "spacing": 0.08,
-          "uppercase": true,
-          "width": 3,
-          "opacity": 0.02,
-          "yOffset": 64,
-          "color": [
-            230,
-            180,
-            60
-          ]
-        }
-      ]
+      "entries": []
     },
     {
       "id": "infrastruktur",
@@ -250,7 +147,7 @@
       },
       "nesgbxj1k": {
         "x": -93,
-        "y": 62,
+        "y": 0,
         "z": -625
       },
       "nu0ll4kjq": {
@@ -647,6 +544,106 @@
         "x": 695,
         "y": -1,
         "z": 165
+      },
+      "n8lauj8hn": {
+        "x": -563,
+        "y": -1,
+        "z": -506
+      },
+      "n7awewxm8": {
+        "x": -385,
+        "y": -1,
+        "z": -504
+      },
+      "nce7oi8w8": {
+        "x": -369,
+        "y": -1,
+        "z": -485
+      },
+      "nbq7romq2": {
+        "x": -338,
+        "y": -1,
+        "z": -481
+      },
+      "ni78o33ie": {
+        "x": -335,
+        "y": -1,
+        "z": -464
+      },
+      "nkxpafbu9": {
+        "x": -297,
+        "y": 63,
+        "z": -464
+      },
+      "nky36g2rz": {
+        "x": -168,
+        "y": 0,
+        "z": -656
+      },
+      "nl1tej9z4": {
+        "x": -290,
+        "y": -1,
+        "z": -663
+      },
+      "nd8mghf2g": {
+        "x": -356,
+        "y": -1,
+        "z": -700
+      },
+      "nps3is8vs": {
+        "x": -384,
+        "y": -1,
+        "z": -752
+      },
+      "nj1r0qlm2": {
+        "x": -428,
+        "y": -1,
+        "z": -792
+      },
+      "n30nz8am6": {
+        "x": -486,
+        "y": -1,
+        "z": -752
+      },
+      "nudhvjmc6": {
+        "x": -513,
+        "y": -1,
+        "z": -707
+      },
+      "nxmskyorv": {
+        "x": -574,
+        "y": -1,
+        "z": -678
+      },
+      "nu9jorp50": {
+        "x": -623,
+        "y": -1,
+        "z": -650
+      },
+      "nl8s1v1w0": {
+        "x": -655,
+        "y": -1,
+        "z": -610
+      },
+      "nzsdhen74": {
+        "x": -659,
+        "y": -1,
+        "z": -588
+      },
+      "nkmmfd5w0": {
+        "x": -631,
+        "y": -1,
+        "z": -549
+      },
+      "na5fhj9m2": {
+        "x": -625,
+        "y": -1,
+        "z": -522
+      },
+      "ng5gvuye4": {
+        "x": -596,
+        "y": -1,
+        "z": -498
       }
     },
     "ways": [
@@ -804,6 +801,49 @@
         "parent": "tjl41zf78",
         "sizeFactor": 1,
         "distFactor": 1,
+        "width": 2,
+        "opacity": 0.05,
+        "showLabel": true,
+        "yOffset": 0
+      },
+      {
+        "id": "tajusne1t",
+        "name": "Hauptstadt?",
+        "detail": "",
+        "category": "stadtgebiet",
+        "nodes": [
+          "n8lauj8hn",
+          "n7awewxm8",
+          "nce7oi8w8",
+          "nbq7romq2",
+          "ni78o33ie",
+          "nkxpafbu9",
+          "nky36g2rz",
+          "nl1tej9z4",
+          "nd8mghf2g",
+          "nps3is8vs",
+          "nj1r0qlm2",
+          "n30nz8am6",
+          "nudhvjmc6",
+          "nxmskyorv",
+          "nu9jorp50",
+          "nl8s1v1w0",
+          "nzsdhen74",
+          "nkmmfd5w0",
+          "na5fhj9m2",
+          "ng5gvuye4"
+        ],
+        "parent": "tjl41zf78",
+        "color": [
+          230,
+          180,
+          60
+        ],
+        "sizeFactor": 0.75,
+        "distFactor": 0.25,
+        "font": "mono",
+        "spacing": 0.08,
+        "uppercase": true,
         "width": 2,
         "opacity": 0.05,
         "showLabel": true,
