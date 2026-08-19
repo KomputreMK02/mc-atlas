@@ -5,7 +5,23 @@
       "id": "orte",
       "label": "Orte",
       "visible": true,
-      "entries": []
+      "entries": [
+        {
+          "id": "ed20j6rmp",
+          "type": "label",
+          "color": [
+            230,
+            180,
+            60
+          ],
+          "text": "eee",
+          "detail": "",
+          "x": -907,
+          "y": -1,
+          "z": -727,
+          "size": 8
+        }
+      ]
     },
     {
       "id": "wege",
