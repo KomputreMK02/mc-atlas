@@ -938,6 +938,12 @@
     ]
   },
   "settings": {
-    "labelDensity": 1
+    "labelDensity": 1.75,
+    "hierarchy": {
+      "1": {
+        "size": 3.05
+      }
+    },
+    "borderMode": "flat"
   }
 }
