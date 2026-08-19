@@ -712,11 +712,14 @@
           "nkiau0udm"
         ],
         "width": 2,
-        "yOffset": 0,
+        "yOffset": -5,
         "category": "pfad",
         "showLabel": true,
         "sizeFactor": 1,
-        "distFactor": 1
+        "distFactor": 1,
+        "font": "serif",
+        "spacing": 0.06,
+        "uppercase": false
       }
     ],
     "visible": true,
