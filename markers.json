@@ -889,8 +889,8 @@
           180,
           60
         ],
-        "sizeFactor": 0.75,
-        "distFactor": 0.25,
+        "sizeFactor": 0.85,
+        "distFactor": 0.5,
         "font": "mono",
         "spacing": 0.08,
         "uppercase": true,
@@ -925,8 +925,8 @@
           "nps3is8vs"
         ],
         "parent": "tjl41zf78",
-        "sizeFactor": 1,
-        "distFactor": 1,
+        "sizeFactor": 0.75,
+        "distFactor": 0.5,
         "font": "mono",
         "spacing": 0.06,
         "uppercase": true,
