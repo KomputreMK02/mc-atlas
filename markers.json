@@ -1,28 +1,11 @@
 {
-  "version": 2,
+  "version": 3,
   "layers": [
     {
       "id": "orte",
       "label": "Orte",
       "visible": true,
-      "entries": [
-        {
-          "id": "edc74n1uj",
-          "type": "label",
-          "text": "Lago di Aufseß",
-          "detail": "",
-          "font": "mono",
-          "size": 0.8,
-          "weight": 400,
-          "spacing": 0.2,
-          "x": -909,
-          "y": -1,
-          "z": -763,
-          "uppercase": true,
-          "yOffset": 59,
-          "maxDistance": 2000
-        }
-      ]
+      "entries": []
     },
     {
       "id": "wege",
@@ -40,6 +23,48 @@
       "id": "geschichte",
       "label": "Geschichte",
       "visible": false,
+      "entries": []
+    },
+    {
+      "id": "gewaesser",
+      "label": "Gewässer",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "landschaft",
+      "label": "Landschaft",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "siedlungen",
+      "label": "Siedlungen",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "infrastruktur",
+      "label": "Infrastruktur",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "grenzen",
+      "label": "Grenzen",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "kultur",
+      "label": "Kulturobjekte",
+      "visible": true,
+      "entries": []
+    },
+    {
+      "id": "sonstiges",
+      "label": "Sonstiges",
+      "visible": true,
       "entries": []
     }
   ],
@@ -64,6 +89,31 @@
         "x": -386,
         "y": 64,
         "z": -348
+      },
+      "ngubzmoty": {
+        "x": -387,
+        "y": 62,
+        "z": -487
+      },
+      "n9hdhzmqx": {
+        "x": -399,
+        "y": 62,
+        "z": -491
+      },
+      "ntysmzq5z": {
+        "x": -401,
+        "y": 70,
+        "z": -538
+      },
+      "n7opwezka": {
+        "x": -414,
+        "y": 70,
+        "z": -538
+      },
+      "n5e4qnyai": {
+        "x": -412,
+        "y": 74,
+        "z": -550
       }
     },
     "ways": [
@@ -78,7 +128,10 @@
           "nd3uwwyv7"
         ],
         "width": 3,
-        "yOffset": 0
+        "yOffset": 0,
+        "category": "bruecke",
+        "showLabel": true,
+        "labelSize": 0.95
       },
       {
         "id": "wg7gcu123",
@@ -90,6 +143,34 @@
           "nkiau0udm"
         ],
         "width": 2,
+        "yOffset": 0,
+        "category": "pfad",
+        "showLabel": true,
+        "labelSize": 0.95
+      },
+      {
+        "id": "w1jalt4s9",
+        "name": "",
+        "detail": "",
+        "category": "strasse",
+        "nodes": [
+          "nrlsovyre",
+          "nrlsovyre",
+          "nrlsovyre",
+          "ngubzmoty",
+          "n9hdhzmqx",
+          "ntysmzq5z",
+          "ntysmzq5z",
+          "ntysmzq5z",
+          "ntysmzq5z",
+          "ntysmzq5z",
+          "n7opwezka",
+          "n7opwezka",
+          "n5e4qnyai"
+        ],
+        "width": 4,
+        "showLabel": true,
+        "labelSize": 0.95,
         "yOffset": 0
       }
     ],
