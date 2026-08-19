@@ -27,32 +27,8 @@
     }
   ],
   "network": {
-    "nodes": {
-      "n9c26ub8w": {
-        "x": -386,
-        "y": 63,
-        "z": -480
-      },
-      "n10rt973g": {
-        "x": -386,
-        "y": 64,
-        "z": -297
-      }
-    },
-    "ways": [
-      {
-        "id": "w0orescql",
-        "name": "Dingsbrücke",
-        "detail": "blubbliuafaafa",
-        "style": "hauptstrasse",
-        "nodes": [
-          "n9c26ub8w",
-          "n10rt973g"
-        ],
-        "width": 6,
-        "yOffset": 0
-      }
-    ],
+    "nodes": {},
+    "ways": [],
     "visible": true
   }
 }
