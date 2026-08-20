@@ -701,6 +701,41 @@
         "x": -78,
         "y": -1,
         "z": -847
+      },
+      "ny53dj0lq": {
+        "x": -386,
+        "y": 64,
+        "z": -148
+      },
+      "n5cvzgh7w": {
+        "x": -2,
+        "y": -1,
+        "z": -129
+      },
+      "nxkv9673a": {
+        "x": 2,
+        "y": 62,
+        "z": 41
+      },
+      "njp8huswa": {
+        "x": 477,
+        "y": -1,
+        "z": 182
+      },
+      "n2dmeein0": {
+        "x": 492,
+        "y": 63,
+        "z": 262
+      },
+      "ndrcus7b7": {
+        "x": 523,
+        "y": 63,
+        "z": 297
+      },
+      "n0krojr2b": {
+        "x": -379,
+        "y": 73,
+        "z": -131
       }
     },
     "ways": [
@@ -742,6 +777,31 @@
         "font": "serif",
         "spacing": 0.06,
         "uppercase": false
+      },
+      {
+        "id": "wmgilcuuf",
+        "name": "Hauptstraße",
+        "detail": "",
+        "category": "hauptstrasse",
+        "nodes": [
+          "nd3uwwyv7",
+          "ny53dj0lq",
+          "n0krojr2b",
+          "n5cvzgh7w",
+          "nxkv9673a",
+          "njp8huswa",
+          "n2dmeein0",
+          "ndrcus7b7"
+        ],
+        "parent": null,
+        "sizeFactor": 1,
+        "distFactor": 1,
+        "font": "mono",
+        "spacing": 0.03,
+        "uppercase": false,
+        "width": 6,
+        "showLabel": true,
+        "yOffset": 0
       }
     ],
     "visible": true,
