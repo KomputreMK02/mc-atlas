@@ -1038,7 +1038,7 @@
         "sizeFactor": 0.55,
         "distFactor": 1,
         "width": 4,
-        "opacity": 0.13,
+        "opacity": 0,
         "showLabel": true,
         "yOffset": 0,
         "font": "mono",
