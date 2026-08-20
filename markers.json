@@ -1803,16 +1803,24 @@
         "size": 2.1
       }
     },
-    "levelSteps": [
-      120,
-      260,
-      550,
-      1100,
-      2000,
-      3400,
-      5380,
-      9230
-    ],
-    "catRank": {}
+    "catRank": {
+      "kreis": 2,
+      "stadt": 3,
+      "frei_text": 8,
+      "attraktion": 8,
+      "kommune": 3
+    },
+    "levelMin": 60,
+    "levelMax": 3300,
+    "levelAnchors": [
+      3300,
+      1478,
+      978,
+      620,
+      367,
+      227,
+      134,
+      85
+    ]
   }
 }
