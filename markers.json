@@ -1178,7 +1178,7 @@
         "spacing": 0.06,
         "uppercase": true,
         "width": 2,
-        "opacity": 0.05,
+        "opacity": 0,
         "showLabel": true,
         "yOffset": 0
       }
