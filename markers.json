@@ -1561,14 +1561,14 @@
           "nnqkiyyg5"
         ],
         "parent": "tjl41zf78",
-        "sizeFactor": 0.45,
+        "sizeFactor": 0.7,
         "width": 2,
         "opacity": 0.05,
         "showLabel": true,
         "yOffset": 0,
-        "font": "mono",
-        "spacing": 0.06,
-        "uppercase": false
+        "font": "serif",
+        "spacing": 0.02,
+        "uppercase": true
       },
       {
         "id": "tajusne1t",
