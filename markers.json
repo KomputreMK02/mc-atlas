@@ -1823,6 +1823,39 @@
         "opacity": 0.05,
         "showLabel": true,
         "yOffset": 0
+      },
+      {
+        "id": "trx13eo6f",
+        "name": "4. Bezirk",
+        "detail": "4. Bezirk",
+        "category": "stadtteil",
+        "nodes": [
+          "nrqu7piqo",
+          "nvjytkjpu",
+          "ntk9huk54",
+          "n6aireop8",
+          "n12gbrwry",
+          "n8lauj8hn",
+          "nj5yu26i8",
+          "n7awewxm8",
+          "nce7oi8w8",
+          "nbq7romq2",
+          "ni78o33ie",
+          "n5la8z3ji",
+          "nv3ug3qm6",
+          "ngil4q6p9",
+          "n4hmrgnd7",
+          "nliwe7yzm"
+        ],
+        "parent": null,
+        "sizeFactor": 0.85,
+        "font": "sans",
+        "spacing": 0.06,
+        "uppercase": true,
+        "width": 2,
+        "opacity": 0.05,
+        "showLabel": true,
+        "yOffset": 0
       }
     ]
   },
