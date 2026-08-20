@@ -1798,6 +1798,31 @@
         "opacity": 0.05,
         "showLabel": true,
         "yOffset": 0
+      },
+      {
+        "id": "tpyqgcln7",
+        "name": "3. Bezirk",
+        "detail": "3. Bezirk",
+        "category": "stadtteil",
+        "nodes": [
+          "na5fhj9m2",
+          "nn3xy4djp",
+          "nf2g0hdlc",
+          "n4fpj4t9d",
+          "n9qrd04is",
+          "n12gbrwry",
+          "ng5gvuye4",
+          "nuvsdx7kl"
+        ],
+        "parent": null,
+        "sizeFactor": 0.7,
+        "font": "sans",
+        "spacing": 0.06,
+        "uppercase": true,
+        "width": 2,
+        "opacity": 0.05,
+        "showLabel": true,
+        "yOffset": 0
       }
     ]
   },
