@@ -67,7 +67,6 @@
           ],
           "y": 71,
           "sizeFactor": 0.85,
-          "distFactor": 0.3,
           "font": "mono",
           "spacing": 0.11,
           "uppercase": false,
@@ -148,7 +147,6 @@
           ],
           "y": 82,
           "sizeFactor": 1,
-          "distFactor": 0.35,
           "font": "mono",
           "spacing": 0.04,
           "uppercase": false,
@@ -184,7 +182,6 @@
           "y": 81,
           "z": -565,
           "sizeFactor": 0.55,
-          "distFactor": 1,
           "font": "mono",
           "spacing": 0.04,
           "uppercase": false,
@@ -200,7 +197,6 @@
           "y": -8,
           "z": -488,
           "sizeFactor": 0.65,
-          "distFactor": 1,
           "font": "mono",
           "spacing": 0.04,
           "uppercase": false,
@@ -217,7 +213,6 @@
           "y": 95,
           "z": -534,
           "sizeFactor": 1.1,
-          "distFactor": 1,
           "font": "papyrus",
           "spacing": 0.04,
           "uppercase": false,
@@ -245,7 +240,6 @@
           "y": -1,
           "z": -195,
           "sizeFactor": 1,
-          "distFactor": 0.65,
           "font": "mono",
           "spacing": 0.04,
           "uppercase": true,
@@ -260,13 +254,12 @@
           "id": "ehglm820s",
           "category": "frei_punkt",
           "text": "Coole Hütte <3",
-          "detail": "Das hier ist eine sehr coole hütte von einer sehr super coolen und cuten person <33",
+          "detail": "Das hier ist eine sehr coole hütte von einer sehr super coolen und cuten person &lt;33",
           "labelOnly": true,
           "x": -506,
           "y": 87,
           "z": -647,
           "sizeFactor": 1,
-          "distFactor": 1,
           "font": "mono",
           "spacing": 0.08,
           "uppercase": false,
@@ -1334,7 +1327,6 @@
         "category": "bruecke",
         "showLabel": true,
         "sizeFactor": 1,
-        "distFactor": 1,
         "font": "mono",
         "spacing": 0.06,
         "uppercase": false
@@ -1353,7 +1345,6 @@
         "category": "bruecke",
         "showLabel": true,
         "sizeFactor": 1,
-        "distFactor": 1,
         "font": "mono",
         "spacing": 0.06,
         "uppercase": false
@@ -1391,7 +1382,6 @@
         ],
         "parent": null,
         "sizeFactor": 1,
-        "distFactor": 1,
         "font": "mono",
         "spacing": 0.03,
         "uppercase": false,
@@ -1412,7 +1402,6 @@
         ],
         "parent": null,
         "sizeFactor": 1,
-        "distFactor": 1,
         "font": "mono",
         "spacing": 0.06,
         "uppercase": false,
@@ -1435,7 +1424,6 @@
         ],
         "parent": null,
         "sizeFactor": 1,
-        "distFactor": 1,
         "font": "mono",
         "spacing": 0.06,
         "uppercase": false,
@@ -1512,7 +1500,6 @@
         ],
         "parent": null,
         "sizeFactor": 0.55,
-        "distFactor": 1,
         "width": 5,
         "opacity": 0,
         "showLabel": true,
@@ -1565,7 +1552,6 @@
         ],
         "parent": "tjl41zf78",
         "sizeFactor": 0.45,
-        "distFactor": 0.2,
         "width": 2,
         "opacity": 0.05,
         "showLabel": true,
@@ -1621,7 +1607,6 @@
           60
         ],
         "sizeFactor": 0.85,
-        "distFactor": 0.5,
         "font": "mono",
         "spacing": 0.08,
         "uppercase": true,
@@ -1659,7 +1644,6 @@
         ],
         "parent": "tjl41zf78",
         "sizeFactor": 0.75,
-        "distFactor": 0.5,
         "font": "mono",
         "spacing": 0.06,
         "uppercase": true,
@@ -1706,7 +1690,6 @@
         ],
         "parent": "tjl41zf78",
         "sizeFactor": 0.6,
-        "distFactor": 1,
         "font": "sans",
         "spacing": 0.06,
         "uppercase": true,
@@ -1735,7 +1718,6 @@
         ],
         "parent": "tajusne1t",
         "sizeFactor": 0.65,
-        "distFactor": 0.6,
         "font": "sans",
         "spacing": 0.04,
         "uppercase": true
@@ -1770,7 +1752,6 @@
         ],
         "parent": "tajusne1t",
         "sizeFactor": 0.85,
-        "distFactor": 0.7,
         "font": "serif",
         "spacing": 0.04,
         "uppercase": true,
@@ -1806,7 +1787,6 @@
         ],
         "parent": "t16tqap8k",
         "sizeFactor": 0.5,
-        "distFactor": 1,
         "font": "serif",
         "spacing": 0.06,
         "uppercase": true,
@@ -1818,12 +1798,20 @@
     ]
   },
   "settings": {
-    "labelDensity": 1.75,
     "hierarchy": {
       "1": {
-        "size": 2.1,
-        "dist": 1500
+        "size": 2.1
       }
-    }
+    },
+    "levelSteps": [
+      120,
+      260,
+      550,
+      1100,
+      2000,
+      3400,
+      5200,
+      9230
+    ]
   }
 }
