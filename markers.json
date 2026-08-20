@@ -770,21 +770,6 @@
         "y": -1,
         "z": -752
       },
-      "nj1r0qlm2": {
-        "x": -428,
-        "y": 0,
-        "z": -791
-      },
-      "n30nz8am6": {
-        "x": -486,
-        "y": -1,
-        "z": -752
-      },
-      "nudhvjmc6": {
-        "x": -513,
-        "y": -1,
-        "z": -707
-      },
       "nxmskyorv": {
         "x": -521,
         "y": 76,
@@ -1319,6 +1304,26 @@
         "x": -288,
         "y": 0,
         "z": -664
+      },
+      "n2vqp2ksl": {
+        "x": -501,
+        "y": -1,
+        "z": -695
+      },
+      "n8ta2uwro": {
+        "x": -480,
+        "y": -1,
+        "z": -706
+      },
+      "nomw0hw5p": {
+        "x": -471,
+        "y": -1,
+        "z": -737
+      },
+      "ntc0ej5tg": {
+        "x": -427,
+        "y": 0,
+        "z": -773
       }
     },
     "ways": [
@@ -1594,9 +1599,10 @@
           "nd8mghf2g",
           "nps3is8vs",
           "nhn03hoty",
-          "nj1r0qlm2",
-          "n30nz8am6",
-          "nudhvjmc6",
+          "ntc0ej5tg",
+          "nomw0hw5p",
+          "n8ta2uwro",
+          "n2vqp2ksl",
           "nq5359rkp",
           "nxmskyorv",
           "nu9jorp50",
@@ -1633,7 +1639,7 @@
         "detail": "",
         "category": "stadtgebiet",
         "nodes": [
-          "nj1r0qlm2",
+          "ntc0ej5tg",
           "nvgxoxrcs",
           "nl7ie8044",
           "nym7m252h",
@@ -1687,7 +1693,7 @@
           "nd8mghf2g",
           "nps3is8vs",
           "nhn03hoty",
-          "nj1r0qlm2",
+          "ntc0ej5tg",
           "nvnpkba9h",
           "nha3029jj",
           "nuqabkhpe",
@@ -1918,7 +1924,7 @@
         "category": "stadtteil",
         "nodes": [
           "nqpec8smn",
-          "nj1r0qlm2",
+          "ntc0ej5tg",
           "nhn03hoty",
           "nps3is8vs",
           "nd8mghf2g",
@@ -1946,9 +1952,10 @@
         "category": "stadtteil",
         "nodes": [
           "nqpec8smn",
-          "nj1r0qlm2",
-          "n30nz8am6",
-          "nudhvjmc6",
+          "ntc0ej5tg",
+          "nomw0hw5p",
+          "n8ta2uwro",
+          "n2vqp2ksl",
           "nq5359rkp",
           "nxmskyorv",
           "nu9jorp50",
@@ -1982,9 +1989,10 @@
         "nodes": [
           "nv9q9unaa",
           "nq5359rkp",
-          "nudhvjmc6",
-          "n30nz8am6",
-          "nj1r0qlm2",
+          "n2vqp2ksl",
+          "n8ta2uwro",
+          "nomw0hw5p",
+          "ntc0ej5tg",
           "nvnpkba9h",
           "nha3029jj",
           "nuqabkhpe"
