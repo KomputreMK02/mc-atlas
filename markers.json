@@ -80,7 +80,7 @@
           "font": "mono",
           "spacing": 0.04,
           "uppercase": true,
-          "yOffset": 0,
+          "yOffset": 55,
           "color": [
             80,
             140,
