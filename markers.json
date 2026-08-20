@@ -745,16 +745,6 @@
         "y": -1,
         "z": 165
       },
-      "n8lauj8hn": {
-        "x": -494,
-        "y": 67,
-        "z": -505
-      },
-      "n7awewxm8": {
-        "x": -385,
-        "y": -1,
-        "z": -504
-      },
       "nce7oi8w8": {
         "x": -369,
         "y": -1,
@@ -1150,16 +1140,6 @@
         "y": 67,
         "z": -577
       },
-      "nj5yu26i8": {
-        "x": -389,
-        "y": 67,
-        "z": -504
-      },
-      "n9qrd04is": {
-        "x": -494,
-        "y": 67,
-        "z": -505
-      },
       "n4fpj4t9d": {
         "x": -494,
         "y": 67,
@@ -1329,6 +1309,16 @@
         "x": -428,
         "y": 67,
         "z": -688
+      },
+      "n64li6bfb": {
+        "x": -385,
+        "y": -1,
+        "z": -505
+      },
+      "npejlv8t0": {
+        "x": -494,
+        "y": 67,
+        "z": -505
       }
     },
     "ways": [
@@ -1586,9 +1576,8 @@
         "detail": "Hauptstadt des Heiligen Römischen Reiches.",
         "category": "stadtgebiet",
         "nodes": [
-          "n8lauj8hn",
-          "nj5yu26i8",
-          "n7awewxm8",
+          "npejlv8t0",
+          "n64li6bfb",
           "nce7oi8w8",
           "nbq7romq2",
           "ni78o33ie",
@@ -1757,8 +1746,8 @@
         "nodes": [
           "nnn410khc",
           "n5gifj32i",
-          "nj5yu26i8",
-          "n9qrd04is",
+          "n64li6bfb",
+          "npejlv8t0",
           "n4fpj4t9d",
           "nf2g0hdlc",
           "nn3xy4djp",
@@ -1836,7 +1825,7 @@
           "nn3xy4djp",
           "nf2g0hdlc",
           "n4fpj4t9d",
-          "n9qrd04is",
+          "npejlv8t0",
           "n12gbrwry",
           "ng5gvuye4",
           "nuvsdx7kl"
@@ -1862,9 +1851,8 @@
           "ntk9huk54",
           "n6aireop8",
           "n12gbrwry",
-          "n8lauj8hn",
-          "nj5yu26i8",
-          "n7awewxm8",
+          "npejlv8t0",
+          "n64li6bfb",
           "nce7oi8w8",
           "nbq7romq2",
           "ni78o33ie",
@@ -1893,8 +1881,7 @@
           "no93092ib",
           "n135dx5kk",
           "n5gifj32i",
-          "nj5yu26i8",
-          "n7awewxm8",
+          "n64li6bfb",
           "nce7oi8w8",
           "nbq7romq2",
           "ni78o33ie",
