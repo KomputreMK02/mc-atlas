@@ -41,7 +41,41 @@
       "id": "siedlungen",
       "label": "Siedlungen",
       "visible": true,
-      "entries": []
+      "entries": [
+        {
+          "id": "ep4n5aai0",
+          "category": "agrar",
+          "text": "Baumfarm",
+          "detail": "",
+          "points": [
+            {
+              "x": -562,
+              "z": -509
+            },
+            {
+              "x": -533,
+              "z": -508
+            },
+            {
+              "x": -533,
+              "z": -539
+            },
+            {
+              "x": -561,
+              "z": -537
+            }
+          ],
+          "y": 71,
+          "sizeFactor": 1,
+          "distFactor": 1,
+          "font": "mono",
+          "spacing": 0.11,
+          "uppercase": false,
+          "width": 3,
+          "opacity": 0.36,
+          "yOffset": 0
+        }
+      ]
     },
     {
       "id": "infrastruktur",
