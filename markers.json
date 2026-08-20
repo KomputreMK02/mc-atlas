@@ -216,7 +216,7 @@
           "x": -467,
           "y": 95,
           "z": -534,
-          "sizeFactor": 1.35,
+          "sizeFactor": 0.95,
           "distFactor": 1,
           "font": "papyrus",
           "spacing": 0.04,
