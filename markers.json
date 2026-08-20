@@ -43,38 +43,6 @@
       "visible": true,
       "entries": [
         {
-          "id": "ep4n5aai0",
-          "category": "agrar",
-          "text": "Baumfarm",
-          "detail": "",
-          "points": [
-            {
-              "x": -561,
-              "z": -508
-            },
-            {
-              "x": -532,
-              "z": -508
-            },
-            {
-              "x": -532,
-              "z": -537
-            },
-            {
-              "x": -561,
-              "z": -537
-            }
-          ],
-          "y": 71,
-          "sizeFactor": 0.85,
-          "font": "mono",
-          "spacing": 0.11,
-          "uppercase": false,
-          "width": 3,
-          "opacity": 0,
-          "yOffset": 0
-        },
-        {
           "id": "ecgpxlnaq",
           "category": "agrar",
           "text": "Große Farm",
@@ -149,6 +117,70 @@
           "sizeFactor": 1,
           "font": "mono",
           "spacing": 0.04,
+          "uppercase": false,
+          "width": 3,
+          "opacity": 0,
+          "yOffset": 0
+        },
+        {
+          "id": "ee626dz3o",
+          "category": "agrar",
+          "text": "Baumfarm",
+          "detail": "",
+          "points": [
+            {
+              "x": 611,
+              "z": 468
+            },
+            {
+              "x": 642,
+              "z": 468
+            },
+            {
+              "x": 642,
+              "z": 541
+            },
+            {
+              "x": 611,
+              "z": 541
+            }
+          ],
+          "y": 71,
+          "sizeFactor": 1,
+          "font": "mono",
+          "spacing": 0.04,
+          "uppercase": false,
+          "width": 3,
+          "opacity": 0.36,
+          "yOffset": 0
+        },
+        {
+          "id": "ep4n5aai0",
+          "category": "agrar",
+          "text": "Baumfarm",
+          "detail": "",
+          "points": [
+            {
+              "x": -561,
+              "z": -508
+            },
+            {
+              "x": -532,
+              "z": -508
+            },
+            {
+              "x": -532,
+              "z": -537
+            },
+            {
+              "x": -561,
+              "z": -537
+            }
+          ],
+          "y": 71,
+          "sizeFactor": 0.85,
+          "font": "mono",
+          "spacing": 0.11,
           "uppercase": false,
           "width": 3,
           "opacity": 0,
