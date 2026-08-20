@@ -118,7 +118,7 @@
           "x": -537,
           "y": -8,
           "z": -488,
-          "sizeFactor": 1.55,
+          "sizeFactor": 0.75,
           "distFactor": 1,
           "font": "mono",
           "spacing": 0.04,
