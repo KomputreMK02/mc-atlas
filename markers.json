@@ -251,6 +251,50 @@
             180,
             100
           ]
+        },
+        {
+          "id": "ewabrkycw",
+          "category": "agrar",
+          "text": "Johannesburger Acker",
+          "detail": "",
+          "points": [
+            {
+              "x": -251,
+              "z": -721
+            },
+            {
+              "x": -243,
+              "z": -721
+            },
+            {
+              "x": -243,
+              "z": -696
+            },
+            {
+              "x": -238,
+              "z": -691
+            },
+            {
+              "x": -248,
+              "z": -685
+            },
+            {
+              "x": -276,
+              "z": -685
+            },
+            {
+              "x": -266,
+              "z": -708
+            }
+          ],
+          "y": 70,
+          "sizeFactor": 0.8,
+          "font": "mono",
+          "spacing": 0.01,
+          "uppercase": false,
+          "width": 3,
+          "opacity": 0,
+          "yOffset": 0
         }
       ]
     },
