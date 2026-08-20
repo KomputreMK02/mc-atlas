@@ -1701,7 +1701,7 @@
       {
         "id": "tl0r813a0",
         "name": "Neu-Bummsdorf",
-        "detail": "",
+        "detail": "2. Bezirk",
         "category": "stadtteil",
         "nodes": [
           "np5tu6ofa",
@@ -1720,12 +1720,16 @@
         "sizeFactor": 0.65,
         "font": "sans",
         "spacing": 0.04,
-        "uppercase": true
+        "uppercase": true,
+        "width": 2,
+        "opacity": 0,
+        "showLabel": true,
+        "yOffset": 0
       },
       {
         "id": "tf4sfohgl",
         "name": "Bummsdorfer Altstadt",
-        "detail": "",
+        "detail": "1. Bezirk",
         "category": "stadtteil",
         "nodes": [
           "nnn410khc",
@@ -1808,7 +1812,11 @@
       "stadt": 3,
       "frei_text": 8,
       "attraktion": 8,
-      "kommune": 3
+      "kommune": 3,
+      "stadtgebiet": 3,
+      "dorf": 4,
+      "stadtteil": 4,
+      "hauptstrasse": 3
     },
     "levelMin": 60,
     "levelMax": 3000,
@@ -1816,11 +1824,11 @@
       2204,
       578,
       267,
-      252,
-      238,
-      224,
-      174,
-      107
+      166,
+      107,
+      94,
+      80,
+      65
     ],
     "levelModel": "kante"
   }
