@@ -234,6 +234,27 @@
             140,
             230
           ]
+        },
+        {
+          "id": "ehglm820s",
+          "category": "frei_punkt",
+          "text": "Coole Hütte <3",
+          "detail": "Das hier ist eine sehr coole hütte von einer sehr super coolen und cuten person <33",
+          "labelOnly": true,
+          "x": -506,
+          "y": 87,
+          "z": -647,
+          "sizeFactor": 1,
+          "distFactor": 1,
+          "font": "mono",
+          "spacing": 0.08,
+          "uppercase": false,
+          "yOffset": 0,
+          "color": [
+            90,
+            180,
+            100
+          ]
         }
       ]
     }
