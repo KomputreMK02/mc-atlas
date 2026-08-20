@@ -295,6 +295,46 @@
           "width": 3,
           "opacity": 0,
           "yOffset": 0
+        },
+        {
+          "id": "eumryofwe",
+          "category": "industrie",
+          "text": "Die Fleischindustrie",
+          "detail": "Hier gibt es ausschließlich artgerechte Haltung/Zucht von Hühnern.",
+          "points": [
+            {
+              "x": -156,
+              "z": -763
+            },
+            {
+              "x": -156,
+              "z": -733
+            },
+            {
+              "x": -179,
+              "z": -733
+            },
+            {
+              "x": -179,
+              "z": -742
+            },
+            {
+              "x": -160,
+              "z": -742
+            },
+            {
+              "x": -160,
+              "z": -763
+            }
+          ],
+          "y": 102,
+          "sizeFactor": 0.8,
+          "font": "serif",
+          "spacing": 0.04,
+          "uppercase": true,
+          "width": 2,
+          "opacity": 0,
+          "yOffset": -11
         }
       ]
     },
