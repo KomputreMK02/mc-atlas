@@ -249,7 +249,7 @@
           "font": "mono",
           "spacing": 0.08,
           "uppercase": false,
-          "yOffset": 0,
+          "yOffset": -10,
           "color": [
             90,
             180,
