@@ -29,7 +29,28 @@
       "id": "gewaesser",
       "label": "Gewässer",
       "visible": true,
-      "entries": []
+      "entries": [
+        {
+          "id": "euj2s3fio",
+          "category": "ozean",
+          "text": "Kasperisches Meer",
+          "detail": "",
+          "labelOnly": true,
+          "x": -1613,
+          "y": -1,
+          "z": -195,
+          "sizeFactor": 1,
+          "font": "mono",
+          "spacing": 0.04,
+          "uppercase": true,
+          "yOffset": 55,
+          "color": [
+            80,
+            140,
+            230
+          ]
+        }
+      ]
     },
     {
       "id": "landschaft",
@@ -262,26 +283,6 @@
       "label": "Sonstiges",
       "visible": true,
       "entries": [
-        {
-          "id": "euj2s3fio",
-          "category": "frei_text",
-          "text": "Kasperisches Meer",
-          "detail": "",
-          "labelOnly": true,
-          "x": -1613,
-          "y": -1,
-          "z": -195,
-          "sizeFactor": 1,
-          "font": "mono",
-          "spacing": 0.04,
-          "uppercase": true,
-          "yOffset": 55,
-          "color": [
-            80,
-            140,
-            230
-          ]
-        },
         {
           "id": "ehglm820s",
           "category": "frei_punkt",
