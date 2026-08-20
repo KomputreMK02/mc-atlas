@@ -840,13 +840,13 @@
         "showLabel": true,
         "sizeFactor": 1,
         "distFactor": 1,
-        "font": "serif",
+        "font": "mono",
         "spacing": 0.06,
         "uppercase": false
       },
       {
         "id": "wg7gcu123",
-        "name": "dingspfad",
+        "name": "dingspfadbrücke",
         "detail": "bloub",
         "style": "pfad",
         "nodes": [
@@ -855,11 +855,11 @@
         ],
         "width": 2,
         "yOffset": -5,
-        "category": "pfad",
+        "category": "bruecke",
         "showLabel": true,
         "sizeFactor": 1,
         "distFactor": 1,
-        "font": "serif",
+        "font": "mono",
         "spacing": 0.06,
         "uppercase": false
       },
