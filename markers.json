@@ -1309,6 +1309,11 @@
         "x": -518,
         "y": 43,
         "z": -675
+      },
+      "n5gifj32i": {
+        "x": -389,
+        "y": 67,
+        "z": -518
       }
     },
     "ways": [
@@ -1733,6 +1738,7 @@
         "category": "stadtteil",
         "nodes": [
           "nnn410khc",
+          "n5gifj32i",
           "nj5yu26i8",
           "n9qrd04is",
           "n4fpj4t9d",
@@ -1849,6 +1855,46 @@
         ],
         "parent": null,
         "sizeFactor": 0.85,
+        "font": "sans",
+        "spacing": 0.06,
+        "uppercase": true,
+        "width": 2,
+        "opacity": 0.05,
+        "showLabel": true,
+        "yOffset": 0
+      },
+      {
+        "id": "t8dr1od4w",
+        "name": "5. Bezirk",
+        "detail": "5. Bezirk",
+        "category": "stadtteil",
+        "nodes": [
+          "no93092ib",
+          "n135dx5kk",
+          "n5gifj32i",
+          "nj5yu26i8",
+          "n7awewxm8",
+          "nce7oi8w8",
+          "nbq7romq2",
+          "ni78o33ie",
+          "n5la8z3ji",
+          "new3rzb9h",
+          "nmcr2avbp",
+          "n6s8m34om",
+          "najog2er7",
+          "n5d43fwa4",
+          "nesgbxj1k",
+          "n701japp3",
+          "nm8yv3bs6",
+          "nl1tej9z4",
+          "nn6xntyag",
+          "n0sh3d0m1",
+          "nhooxcdav",
+          "nnwk5g7y9",
+          "nk7r6yrsm"
+        ],
+        "parent": null,
+        "sizeFactor": 1.4,
         "font": "sans",
         "spacing": 0.06,
         "uppercase": true,
