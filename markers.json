@@ -841,13 +841,13 @@
           "nnqkiyyg5"
         ],
         "parent": "tjl41zf78",
-        "sizeFactor": 1,
-        "distFactor": 1,
+        "sizeFactor": 0.45,
+        "distFactor": 0.2,
         "width": 2,
         "opacity": 0.05,
         "showLabel": true,
         "yOffset": 0,
-        "font": "serif",
+        "font": "mono",
         "spacing": 0.06,
         "uppercase": false
       },
@@ -941,7 +941,8 @@
     "labelDensity": 1.75,
     "hierarchy": {
       "1": {
-        "size": 3.05
+        "size": 2.1,
+        "dist": 1500
       }
     }
   }
