@@ -206,6 +206,51 @@
           "width": 3,
           "opacity": 0,
           "yOffset": 0
+        },
+        {
+          "id": "eh62wsdve",
+          "category": "agrar",
+          "text": "Zuckerrohrfarm",
+          "detail": "",
+          "points": [
+            {
+              "x": -428,
+              "z": -481
+            },
+            {
+              "x": -400,
+              "z": -481
+            },
+            {
+              "x": -400,
+              "z": -437
+            },
+            {
+              "x": -412,
+              "z": -437
+            },
+            {
+              "x": -412,
+              "z": -413
+            },
+            {
+              "x": -428,
+              "z": -413
+            }
+          ],
+          "y": 62,
+          "sizeFactor": 0.7,
+          "font": "mono",
+          "spacing": 0.04,
+          "uppercase": false,
+          "width": 3,
+          "opacity": 0,
+          "yOffset": 0,
+          "color": [
+            90,
+            180,
+            100
+          ]
         }
       ]
     },
