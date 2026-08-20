@@ -216,16 +216,16 @@
           "x": -467,
           "y": 95,
           "z": -534,
-          "sizeFactor": 0.95,
+          "sizeFactor": 1.1,
           "distFactor": 1,
           "font": "papyrus",
           "spacing": 0.04,
           "uppercase": false,
           "yOffset": 0,
           "color": [
-            160,
-            110,
-            210
+            235,
+            235,
+            235
           ]
         }
       ]
