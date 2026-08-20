@@ -1973,6 +1973,36 @@
         "opacity": 0.05,
         "showLabel": true,
         "yOffset": 0
+      },
+      {
+        "id": "twre51j9w",
+        "name": "Bummsdorfer Seenplatte",
+        "detail": "",
+        "category": "kommune",
+        "nodes": [
+          "nv9q9unaa",
+          "nq5359rkp",
+          "nudhvjmc6",
+          "n30nz8am6",
+          "nj1r0qlm2",
+          "nvnpkba9h",
+          "nha3029jj",
+          "nuqabkhpe"
+        ],
+        "parent": "t16tqap8k",
+        "sizeFactor": 0.7,
+        "font": "mono",
+        "spacing": 0,
+        "uppercase": true,
+        "width": 2,
+        "opacity": 0.05,
+        "showLabel": true,
+        "yOffset": 0,
+        "color": [
+          80,
+          140,
+          230
+        ]
       }
     ]
   },
