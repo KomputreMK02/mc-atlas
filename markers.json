@@ -431,6 +431,21 @@
             180,
             100
           ]
+        },
+        {
+          "id": "esopphydk",
+          "category": "frei_punkt",
+          "text": "Villager Hotel",
+          "detail": "",
+          "labelOnly": true,
+          "x": -438,
+          "y": 102,
+          "z": -584,
+          "sizeFactor": 1,
+          "font": "serif",
+          "spacing": 0.04,
+          "uppercase": false,
+          "yOffset": -15
         }
       ]
     }
