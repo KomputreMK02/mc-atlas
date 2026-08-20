@@ -713,22 +713,22 @@
         "z": -100
       },
       "nxkv9673a": {
-        "x": 2,
-        "y": 63,
-        "z": 41
+        "x": 0,
+        "y": 60,
+        "z": 30
       },
       "njp8huswa": {
         "x": 477,
-        "y": -1,
+        "y": 57,
         "z": 182
       },
       "n2dmeein0": {
         "x": 492,
         "y": 63,
-        "z": 262
+        "z": 252
       },
       "ndrcus7b7": {
-        "x": 523,
+        "x": 527,
         "y": 63,
         "z": 297
       },
@@ -771,6 +771,51 @@
         "x": -386,
         "y": 56,
         "z": -288
+      },
+      "nak6a588t": {
+        "x": 0,
+        "y": 65,
+        "z": -47
+      },
+      "n1vaqfter": {
+        "x": 0,
+        "y": 57,
+        "z": -6
+      },
+      "nofys0ff7": {
+        "x": 61,
+        "y": 63,
+        "z": 49
+      },
+      "nt0d7qvu6": {
+        "x": 295,
+        "y": 63,
+        "z": 124
+      },
+      "nvidorryv": {
+        "x": 403,
+        "y": 62,
+        "z": 158
+      },
+      "nr7ga5y1q": {
+        "x": 488,
+        "y": 56,
+        "z": 210
+      },
+      "nlahvizq7": {
+        "x": 489,
+        "y": 61,
+        "z": 244
+      },
+      "n7ljxspfy": {
+        "x": 493,
+        "y": 64,
+        "z": 264
+      },
+      "nxlbrzmph": {
+        "x": 518,
+        "y": 78,
+        "z": 294
       }
     },
     "ways": [
@@ -830,9 +875,18 @@
           "na77qvulv",
           "n3a6czy7u",
           "n5cvzgh7w",
+          "nak6a588t",
+          "n1vaqfter",
           "nxkv9673a",
+          "nofys0ff7",
+          "nt0d7qvu6",
+          "nvidorryv",
           "njp8huswa",
+          "nr7ga5y1q",
+          "nlahvizq7",
           "n2dmeein0",
+          "n7ljxspfy",
+          "nxlbrzmph",
           "ndrcus7b7"
         ],
         "parent": null,
