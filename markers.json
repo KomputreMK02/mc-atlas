@@ -1501,6 +1501,26 @@
         "x": -400,
         "y": -1,
         "z": -841
+      },
+      "n8jfvar0g": {
+        "x": -250,
+        "y": 22,
+        "z": -664
+      },
+      "n6qz8c2n5": {
+        "x": -427,
+        "y": 80,
+        "z": -646
+      },
+      "ntr0sbc5p": {
+        "x": -267,
+        "y": 80,
+        "z": -644
+      },
+      "npfpew3am": {
+        "x": -249,
+        "y": 80,
+        "z": -736
       }
     },
     "ways": [
@@ -1622,6 +1642,24 @@
         "width": 6,
         "showLabel": true,
         "yOffset": 0
+      },
+      {
+        "id": "ws4dj5cwg",
+        "name": "U1",
+        "detail": "",
+        "category": "ubahn",
+        "nodes": [
+          "n6qz8c2n5",
+          "ntr0sbc5p",
+          "npfpew3am"
+        ],
+        "parent": null,
+        "sizeFactor": 1,
+        "font": "serif",
+        "spacing": 0.06,
+        "uppercase": false,
+        "width": 4,
+        "showLabel": true
       }
     ],
     "visible": true,
@@ -2079,6 +2117,7 @@
           "nesgbxj1k",
           "n701japp3",
           "nm8yv3bs6",
+          "n8jfvar0g",
           "nibhxruja",
           "nn6xntyag",
           "n0sh3d0m1",
