@@ -242,8 +242,8 @@
     "nodes": {
       "nrlsovyre": {
         "x": -386,
-        "y": 59,
-        "z": -477
+        "y": 63,
+        "z": -482
       },
       "nd3uwwyv7": {
         "x": -386,
@@ -1009,6 +1009,11 @@
         "x": -545,
         "y": 74,
         "z": -628
+      },
+      "nmmkgvuak": {
+        "x": -386,
+        "y": 64,
+        "z": -476
       }
     },
     "ways": [
@@ -1019,6 +1024,7 @@
         "style": "strasse",
         "nodes": [
           "nrlsovyre",
+          "nmmkgvuak",
           "nkiau0udm",
           "nd3uwwyv7"
         ],
