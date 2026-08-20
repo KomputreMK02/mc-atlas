@@ -1269,6 +1269,11 @@
         "x": -384,
         "y": -1,
         "z": -752
+      },
+      "nq5359rkp": {
+        "x": -518,
+        "y": 43,
+        "z": -675
       }
     },
     "ways": [
@@ -1554,6 +1559,7 @@
           "nj1r0qlm2",
           "n30nz8am6",
           "nudhvjmc6",
+          "nq5359rkp",
           "nxmskyorv",
           "nu9jorp50",
           "nl8s1v1w0",
@@ -1694,7 +1700,7 @@
       },
       {
         "id": "tf4sfohgl",
-        "name": "Altstadt",
+        "name": "Bummsdorfer Altstadt",
         "detail": "",
         "category": "stadtteil",
         "nodes": [
@@ -1725,7 +1731,47 @@
         "distFactor": 0.7,
         "font": "serif",
         "spacing": 0.04,
-        "uppercase": false
+        "uppercase": true,
+        "showLabel": true,
+        "width": 2,
+        "opacity": 0,
+        "yOffset": 0
+      },
+      {
+        "id": "t11jf350y",
+        "name": "Bummsdorfer Land",
+        "detail": "",
+        "category": "kreis",
+        "nodes": [
+          "n12gbrwry",
+          "n6aireop8",
+          "nyb024t49",
+          "nrmqe98oa",
+          "n5c53nlfo",
+          "nv9q9unaa",
+          "nq5359rkp",
+          "nxmskyorv",
+          "nu9jorp50",
+          "nl8s1v1w0",
+          "n4uej5mus",
+          "nluhmj3jl",
+          "n4jf8plau",
+          "nnlajojn9",
+          "n3e15ou3u",
+          "na5fhj9m2",
+          "nuvsdx7kl",
+          "ng5gvuye4"
+        ],
+        "parent": "t16tqap8k",
+        "sizeFactor": 0.5,
+        "distFactor": 1,
+        "font": "serif",
+        "spacing": 0.06,
+        "uppercase": true,
+        "width": 2,
+        "opacity": 0.05,
+        "showLabel": true,
+        "yOffset": 0
       }
     ]
   },
