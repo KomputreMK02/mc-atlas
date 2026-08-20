@@ -155,168 +155,6 @@
           "width": 3,
           "opacity": 0,
           "yOffset": 0
-        },
-        {
-          "id": "evgj4ytrg",
-          "category": "stadtteil",
-          "text": "Neu-Bummsdorf",
-          "detail": "",
-          "points": [
-            {
-              "x": -391,
-              "z": -577
-            },
-            {
-              "x": -391,
-              "z": -643
-            },
-            {
-              "x": -384,
-              "z": -649
-            },
-            {
-              "x": -288,
-              "z": -649
-            },
-            {
-              "x": -278,
-              "z": -630
-            },
-            {
-              "x": -285,
-              "z": -609
-            },
-            {
-              "x": -319,
-              "z": -593
-            },
-            {
-              "x": -346,
-              "z": -568
-            },
-            {
-              "x": -363,
-              "z": -529
-            },
-            {
-              "x": -389,
-              "z": -529
-            },
-            {
-              "x": -389,
-              "z": -577
-            }
-          ],
-          "y": 84,
-          "sizeFactor": 0.65,
-          "distFactor": 0.6,
-          "font": "sans",
-          "spacing": 0.04,
-          "uppercase": true,
-          "width": 3,
-          "opacity": 0,
-          "yOffset": 0
-        },
-        {
-          "id": "eb0ffk78r",
-          "category": "stadtteil",
-          "text": "Altstadt",
-          "detail": "",
-          "points": [
-            {
-              "x": -389,
-              "z": -577
-            },
-            {
-              "x": -389,
-              "z": -504
-            },
-            {
-              "x": -494,
-              "z": -505
-            },
-            {
-              "x": -494,
-              "z": -544
-            },
-            {
-              "x": -504,
-              "z": -544
-            },
-            {
-              "x": -504,
-              "z": -570
-            },
-            {
-              "x": -501,
-              "z": -570
-            },
-            {
-              "x": -501,
-              "z": -588
-            },
-            {
-              "x": -501,
-              "z": -602
-            },
-            {
-              "x": -466,
-              "z": -602
-            },
-            {
-              "x": -466,
-              "z": -625
-            },
-            {
-              "x": -474,
-              "z": -625
-            },
-            {
-              "x": -474,
-              "z": -656
-            },
-            {
-              "x": -456,
-              "z": -665
-            },
-            {
-              "x": -456,
-              "z": -688
-            },
-            {
-              "x": -392,
-              "z": -688
-            },
-            {
-              "x": -392,
-              "z": -674
-            },
-            {
-              "x": -384,
-              "z": -669
-            },
-            {
-              "x": -384,
-              "z": -649
-            },
-            {
-              "x": -391,
-              "z": -643
-            },
-            {
-              "x": -391,
-              "z": -577
-            }
-          ],
-          "y": 67,
-          "sizeFactor": 0.85,
-          "distFactor": 0.7,
-          "font": "serif",
-          "spacing": 0.04,
-          "uppercase": false,
-          "width": 3,
-          "opacity": 0,
-          "yOffset": 0
         }
       ]
     },
@@ -431,11 +269,6 @@
         "x": -555,
         "y": -1,
         "z": -153
-      },
-      "nz7yklkeb": {
-        "x": -460,
-        "y": -1,
-        "z": -357
       },
       "n4hmrgnd7": {
         "x": -401,
@@ -1202,50 +1035,15 @@
         "y": 84,
         "z": -610
       },
-      "n860ond3d": {
-        "x": -242,
-        "y": 62,
-        "z": -445
-      },
-      "n5emke902": {
-        "x": -90,
-        "y": 4,
-        "z": -628
-      },
-      "ndsfz2x4n": {
-        "x": -172,
-        "y": 65,
-        "z": -679
-      },
-      "nv593i43z": {
-        "x": -286,
-        "y": 69,
-        "z": -682
-      },
-      "nu3pe2x6b": {
-        "x": -359,
-        "y": 0,
-        "z": -706
-      },
-      "nhkk7upj1": {
-        "x": -368,
-        "y": 62,
-        "z": -771
-      },
-      "nvdd9uccg": {
-        "x": -422,
-        "y": 0,
-        "z": -802
-      },
       "nvnpkba9h": {
-        "x": -502,
-        "y": 62,
-        "z": -761
+        "x": -506,
+        "y": 63,
+        "z": -776
       },
       "nha3029jj": {
-        "x": -602,
-        "y": 62,
-        "z": -757
+        "x": -586,
+        "y": 63,
+        "z": -769
       },
       "n5c53nlfo": {
         "x": -673,
@@ -1253,9 +1051,224 @@
         "z": -597
       },
       "nrqu7piqo": {
-        "x": -585,
-        "y": 78,
-        "z": -460
+        "x": -518,
+        "y": 66,
+        "z": -360
+      },
+      "np5tu6ofa": {
+        "x": -391,
+        "y": 84,
+        "z": -577
+      },
+      "nv29zc6k8": {
+        "x": -391,
+        "y": 84,
+        "z": -643
+      },
+      "nwjrz5vy8": {
+        "x": -384,
+        "y": 84,
+        "z": -649
+      },
+      "nn6xntyag": {
+        "x": -288,
+        "y": 84,
+        "z": -649
+      },
+      "n0sh3d0m1": {
+        "x": -278,
+        "y": 84,
+        "z": -630
+      },
+      "nhooxcdav": {
+        "x": -285,
+        "y": 84,
+        "z": -609
+      },
+      "nnwk5g7y9": {
+        "x": -319,
+        "y": 84,
+        "z": -593
+      },
+      "nk7r6yrsm": {
+        "x": -346,
+        "y": 84,
+        "z": -568
+      },
+      "no93092ib": {
+        "x": -363,
+        "y": 84,
+        "z": -529
+      },
+      "n135dx5kk": {
+        "x": -389,
+        "y": 84,
+        "z": -529
+      },
+      "n37usojf3": {
+        "x": -389,
+        "y": 84,
+        "z": -577
+      },
+      "nnn410khc": {
+        "x": -389,
+        "y": 67,
+        "z": -577
+      },
+      "nj5yu26i8": {
+        "x": -389,
+        "y": 67,
+        "z": -504
+      },
+      "n9qrd04is": {
+        "x": -494,
+        "y": 67,
+        "z": -505
+      },
+      "n4fpj4t9d": {
+        "x": -494,
+        "y": 67,
+        "z": -544
+      },
+      "nf2g0hdlc": {
+        "x": -504,
+        "y": 67,
+        "z": -544
+      },
+      "nn3xy4djp": {
+        "x": -504,
+        "y": 67,
+        "z": -570
+      },
+      "n3e15ou3u": {
+        "x": -501,
+        "y": 67,
+        "z": -570
+      },
+      "nnlajojn9": {
+        "x": -501,
+        "y": 67,
+        "z": -588
+      },
+      "n4jf8plau": {
+        "x": -501,
+        "y": 67,
+        "z": -602
+      },
+      "n8ey7ln2z": {
+        "x": -466,
+        "y": 67,
+        "z": -602
+      },
+      "nrltgq48v": {
+        "x": -466,
+        "y": 67,
+        "z": -625
+      },
+      "npm489lqf": {
+        "x": -474,
+        "y": 67,
+        "z": -625
+      },
+      "nf5ryyabp": {
+        "x": -474,
+        "y": 67,
+        "z": -656
+      },
+      "nhpgimzbz": {
+        "x": -456,
+        "y": 67,
+        "z": -665
+      },
+      "n7533myrx": {
+        "x": -456,
+        "y": 67,
+        "z": -688
+      },
+      "n27i3mxrp": {
+        "x": -392,
+        "y": 67,
+        "z": -688
+      },
+      "nhybxo4y5": {
+        "x": -392,
+        "y": 67,
+        "z": -674
+      },
+      "nb0fg54uj": {
+        "x": -384,
+        "y": 67,
+        "z": -669
+      },
+      "ndv18fi4h": {
+        "x": -384,
+        "y": 67,
+        "z": -649
+      },
+      "nfjoxcqyj": {
+        "x": -391,
+        "y": 67,
+        "z": -643
+      },
+      "n14ubdpgr": {
+        "x": -391,
+        "y": 67,
+        "z": -577
+      },
+      "nm8yv3bs6": {
+        "x": -174,
+        "y": 67,
+        "z": -664
+      },
+      "nmcr2avbp": {
+        "x": -257,
+        "y": -1,
+        "z": -466
+      },
+      "nliwe7yzm": {
+        "x": -458,
+        "y": 0,
+        "z": -354
+      },
+      "nvjytkjpu": {
+        "x": -542,
+        "y": 71,
+        "z": -387
+      },
+      "ntk9huk54": {
+        "x": -548,
+        "y": 73,
+        "z": -450
+      },
+      "n6aireop8": {
+        "x": -583,
+        "y": 75,
+        "z": -469
+      },
+      "nyb024t49": {
+        "x": -611,
+        "y": 63,
+        "z": -548
+      },
+      "nrmqe98oa": {
+        "x": -635,
+        "y": 72,
+        "z": -552
+      },
+      "nv9q9unaa": {
+        "x": -637,
+        "y": 63,
+        "z": -659
+      },
+      "nuqabkhpe": {
+        "x": -640,
+        "y": 63,
+        "z": -696
+      },
+      "nhn03hoty": {
+        "x": -384,
+        "y": -1,
+        "z": -752
       }
     },
     "ways": [
@@ -1394,12 +1407,13 @@
         "nodes": [
           "no5fi2p67",
           "nq06898lv",
-          "nz7yklkeb",
+          "nliwe7yzm",
           "n4hmrgnd7",
           "ngil4q6p9",
           "nv3ug3qm6",
           "n5la8z3ji",
           "new3rzb9h",
+          "nmcr2avbp",
           "n6s8m34om",
           "najog2er7",
           "n5d43fwa4",
@@ -1526,14 +1540,17 @@
           "ni78o33ie",
           "n5la8z3ji",
           "new3rzb9h",
+          "nmcr2avbp",
           "n6s8m34om",
           "najog2er7",
           "n5d43fwa4",
           "nesgbxj1k",
           "n701japp3",
+          "nm8yv3bs6",
           "nl1tej9z4",
           "nd8mghf2g",
           "nps3is8vs",
+          "nhn03hoty",
           "nj1r0qlm2",
           "n30nz8am6",
           "nudhvjmc6",
@@ -1549,7 +1566,7 @@
           "ng5gvuye4",
           "n12gbrwry"
         ],
-        "parent": "tjl41zf78",
+        "parent": "t16tqap8k",
         "color": [
           230,
           180,
@@ -1572,7 +1589,6 @@
         "category": "stadtgebiet",
         "nodes": [
           "nj1r0qlm2",
-          "nvdd9uccg",
           "nvgxoxrcs",
           "nl7ie8044",
           "nym7m252h",
@@ -1585,13 +1601,13 @@
           "nr6m56aby",
           "nl9etrqc0",
           "nu0ll4kjq",
-          "n5emke902",
           "nesgbxj1k",
           "n701japp3",
+          "nm8yv3bs6",
           "nl1tej9z4",
           "nd8mghf2g",
-          "nu3pe2x6b",
-          "nps3is8vs"
+          "nps3is8vs",
+          "nhn03hoty"
         ],
         "parent": "tjl41zf78",
         "sizeFactor": 0.75,
@@ -1610,20 +1626,37 @@
         "detail": "",
         "category": "kreis",
         "nodes": [
-          "nz7yklkeb",
-          "n860ond3d",
-          "n5emke902",
-          "ndsfz2x4n",
-          "nv593i43z",
-          "nu3pe2x6b",
-          "nhkk7upj1",
-          "nvdd9uccg",
+          "nliwe7yzm",
+          "n4hmrgnd7",
+          "ngil4q6p9",
+          "nv3ug3qm6",
+          "n5la8z3ji",
+          "new3rzb9h",
+          "nmcr2avbp",
+          "n6s8m34om",
+          "najog2er7",
+          "n5d43fwa4",
+          "nesgbxj1k",
+          "n701japp3",
+          "nm8yv3bs6",
+          "nl1tej9z4",
+          "nd8mghf2g",
+          "nps3is8vs",
+          "nhn03hoty",
+          "nj1r0qlm2",
           "nvnpkba9h",
           "nha3029jj",
+          "nuqabkhpe",
+          "nv9q9unaa",
           "n5c53nlfo",
+          "nrmqe98oa",
+          "nyb024t49",
+          "n6aireop8",
+          "ntk9huk54",
+          "nvjytkjpu",
           "nrqu7piqo"
         ],
-        "parent": null,
+        "parent": "tjl41zf78",
         "sizeFactor": 0.6,
         "distFactor": 1,
         "font": "sans",
@@ -1633,6 +1666,66 @@
         "opacity": 0.05,
         "showLabel": true,
         "yOffset": 0
+      },
+      {
+        "id": "tl0r813a0",
+        "name": "Neu-Bummsdorf",
+        "detail": "",
+        "category": "stadtteil",
+        "nodes": [
+          "np5tu6ofa",
+          "nv29zc6k8",
+          "nwjrz5vy8",
+          "nn6xntyag",
+          "n0sh3d0m1",
+          "nhooxcdav",
+          "nnwk5g7y9",
+          "nk7r6yrsm",
+          "no93092ib",
+          "n135dx5kk",
+          "n37usojf3"
+        ],
+        "parent": "tajusne1t",
+        "sizeFactor": 0.65,
+        "distFactor": 0.6,
+        "font": "sans",
+        "spacing": 0.04,
+        "uppercase": true
+      },
+      {
+        "id": "tf4sfohgl",
+        "name": "Altstadt",
+        "detail": "",
+        "category": "stadtteil",
+        "nodes": [
+          "nnn410khc",
+          "nj5yu26i8",
+          "n9qrd04is",
+          "n4fpj4t9d",
+          "nf2g0hdlc",
+          "nn3xy4djp",
+          "n3e15ou3u",
+          "nnlajojn9",
+          "n4jf8plau",
+          "n8ey7ln2z",
+          "nrltgq48v",
+          "npm489lqf",
+          "nf5ryyabp",
+          "nhpgimzbz",
+          "n7533myrx",
+          "n27i3mxrp",
+          "nhybxo4y5",
+          "nb0fg54uj",
+          "ndv18fi4h",
+          "nfjoxcqyj",
+          "n14ubdpgr"
+        ],
+        "parent": "tajusne1t",
+        "sizeFactor": 0.85,
+        "distFactor": 0.7,
+        "font": "serif",
+        "spacing": 0.04,
+        "uppercase": false
       }
     ]
   },
