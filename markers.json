@@ -818,8 +818,18 @@
         "z": 294
       },
       "nvhgyf65s": {
-        "x": 570,
-        "y": 51,
+        "x": 575,
+        "y": 55,
+        "z": 297
+      },
+      "n0s2a5kyp": {
+        "x": 533,
+        "y": 57,
+        "z": 297
+      },
+      "n1juhsbnj": {
+        "x": 569,
+        "y": 57,
         "z": 297
       }
     },
@@ -911,6 +921,8 @@
         "category": "bruecke",
         "nodes": [
           "nvhgyf65s",
+          "n1juhsbnj",
+          "n0s2a5kyp",
           "ndrcus7b7"
         ],
         "parent": null,
