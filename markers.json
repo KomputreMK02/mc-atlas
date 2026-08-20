@@ -1740,7 +1740,7 @@
           "n37usojf3"
         ],
         "parent": "tajusne1t",
-        "sizeFactor": 0.65,
+        "sizeFactor": 1,
         "font": "sans",
         "spacing": 0.04,
         "uppercase": true,
@@ -1780,7 +1780,7 @@
           "n14ubdpgr"
         ],
         "parent": "tajusne1t",
-        "sizeFactor": 0.85,
+        "sizeFactor": 1.2,
         "font": "serif",
         "spacing": 0.04,
         "uppercase": true,
@@ -1841,8 +1841,8 @@
           "ng5gvuye4",
           "nuvsdx7kl"
         ],
-        "parent": null,
-        "sizeFactor": 0.7,
+        "parent": "tajusne1t",
+        "sizeFactor": 1,
         "font": "sans",
         "spacing": 0.06,
         "uppercase": true,
@@ -1874,8 +1874,8 @@
           "n4hmrgnd7",
           "nliwe7yzm"
         ],
-        "parent": null,
-        "sizeFactor": 0.85,
+        "parent": "tajusne1t",
+        "sizeFactor": 1.4,
         "font": "sans",
         "spacing": 0.06,
         "uppercase": true,
@@ -1914,7 +1914,7 @@
           "nnwk5g7y9",
           "nk7r6yrsm"
         ],
-        "parent": null,
+        "parent": "tajusne1t",
         "sizeFactor": 1.4,
         "font": "sans",
         "spacing": 0.06,
@@ -1942,7 +1942,7 @@
           "nhybxo4y5",
           "n27i3mxrp"
         ],
-        "parent": null,
+        "parent": "tajusne1t",
         "sizeFactor": 1,
         "font": "sans",
         "spacing": 0.06,
@@ -1977,7 +1977,7 @@
           "nhpgimzbz",
           "n7533myrx"
         ],
-        "parent": null,
+        "parent": "tajusne1t",
         "sizeFactor": 1,
         "font": "sans",
         "spacing": 0.06,
