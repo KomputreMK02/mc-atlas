@@ -1508,9 +1508,9 @@
         "z": -664
       },
       "n6qz8c2n5": {
-        "x": -427,
-        "y": 80,
-        "z": -646
+        "x": -439,
+        "y": 75,
+        "z": -647
       },
       "ntr0sbc5p": {
         "x": -267,
@@ -1655,9 +1655,9 @@
         ],
         "parent": null,
         "sizeFactor": 1,
-        "font": "serif",
+        "font": "sans",
         "spacing": 0.06,
-        "uppercase": false,
+        "uppercase": true,
         "width": 4,
         "showLabel": true
       }
