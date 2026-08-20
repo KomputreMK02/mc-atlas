@@ -1324,6 +1324,21 @@
         "x": -427,
         "y": 0,
         "z": -773
+      },
+      "n5pclrlfr": {
+        "x": -472,
+        "y": 11,
+        "z": -793
+      },
+      "nrupdius5": {
+        "x": -432,
+        "y": 67,
+        "z": -836
+      },
+      "n9fkleys6": {
+        "x": -400,
+        "y": -1,
+        "z": -841
       }
     },
     "ways": [
@@ -1640,6 +1655,7 @@
         "category": "stadtgebiet",
         "nodes": [
           "ntc0ej5tg",
+          "n9fkleys6",
           "nvgxoxrcs",
           "nl7ie8044",
           "nym7m252h",
@@ -1694,6 +1710,7 @@
           "nps3is8vs",
           "nhn03hoty",
           "ntc0ej5tg",
+          "n5pclrlfr",
           "nvnpkba9h",
           "nha3029jj",
           "nuqabkhpe",
@@ -1993,6 +2010,9 @@
           "n8ta2uwro",
           "nomw0hw5p",
           "ntc0ej5tg",
+          "n9fkleys6",
+          "nrupdius5",
+          "n5pclrlfr",
           "nvnpkba9h",
           "nha3029jj",
           "nuqabkhpe"
