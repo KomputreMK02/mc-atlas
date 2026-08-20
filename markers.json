@@ -72,7 +72,7 @@
           "spacing": 0.11,
           "uppercase": false,
           "width": 3,
-          "opacity": 0.36,
+          "opacity": 0,
           "yOffset": 0
         }
       ]
