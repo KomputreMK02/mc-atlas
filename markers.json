@@ -729,7 +729,7 @@
       },
       "ndrcus7b7": {
         "x": 527,
-        "y": 57,
+        "y": 55,
         "z": 297
       },
       "n0krojr2b": {
@@ -816,6 +816,11 @@
         "x": 518,
         "y": 57,
         "z": 294
+      },
+      "nvhgyf65s": {
+        "x": 570,
+        "y": 51,
+        "z": 297
       }
     },
     "ways": [
@@ -894,6 +899,25 @@
         "distFactor": 1,
         "font": "mono",
         "spacing": 0.03,
+        "uppercase": false,
+        "width": 6,
+        "showLabel": true,
+        "yOffset": 0
+      },
+      {
+        "id": "wp52vlfvq",
+        "name": "L-Brücke",
+        "detail": "",
+        "category": "bruecke",
+        "nodes": [
+          "nvhgyf65s",
+          "ndrcus7b7"
+        ],
+        "parent": null,
+        "sizeFactor": 1,
+        "distFactor": 1,
+        "font": "mono",
+        "spacing": 0.06,
         "uppercase": false,
         "width": 6,
         "showLabel": true,
