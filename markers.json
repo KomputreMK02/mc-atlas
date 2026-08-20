@@ -66,8 +66,8 @@
             }
           ],
           "y": 71,
-          "sizeFactor": 1,
-          "distFactor": 1,
+          "sizeFactor": 0.85,
+          "distFactor": 0.3,
           "font": "mono",
           "spacing": 0.11,
           "uppercase": false,
@@ -147,8 +147,8 @@
             }
           ],
           "y": 82,
-          "sizeFactor": 1.4,
-          "distFactor": 1,
+          "sizeFactor": 1,
+          "distFactor": 0.35,
           "font": "mono",
           "spacing": 0.04,
           "uppercase": false,
