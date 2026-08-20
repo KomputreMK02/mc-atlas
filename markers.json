@@ -75,6 +75,22 @@
           "uppercase": false,
           "icon": "markt",
           "yOffset": -7
+        },
+        {
+          "id": "em80mgd9t",
+          "category": "attraktion",
+          "text": "Das Loch",
+          "detail": "",
+          "x": -537,
+          "y": -8,
+          "z": -488,
+          "sizeFactor": 1.55,
+          "distFactor": 1,
+          "font": "mono",
+          "spacing": 0.04,
+          "uppercase": false,
+          "icon": "attraktion",
+          "yOffset": 0
         }
       ]
     },
