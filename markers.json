@@ -1205,11 +1205,11 @@
         "parent": null,
         "sizeFactor": 0.55,
         "distFactor": 1,
-        "width": 4,
+        "width": 5,
         "opacity": 0,
         "showLabel": true,
         "yOffset": 0,
-        "font": "mono",
+        "font": "papyrus",
         "spacing": 0.06,
         "uppercase": true
       },
