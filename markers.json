@@ -1951,6 +1951,41 @@
         "opacity": 0.05,
         "showLabel": true,
         "yOffset": 0
+      },
+      {
+        "id": "tqolf27yh",
+        "name": "8. Bezirk",
+        "detail": "8. Bezirk",
+        "category": "stadtteil",
+        "nodes": [
+          "nqpec8smn",
+          "nj1r0qlm2",
+          "n30nz8am6",
+          "nudhvjmc6",
+          "nq5359rkp",
+          "nxmskyorv",
+          "nu9jorp50",
+          "nsua2q1lz",
+          "nl8s1v1w0",
+          "ntpifrzd0",
+          "n4uej5mus",
+          "nluhmj3jl",
+          "n8ey7ln2z",
+          "nrltgq48v",
+          "npm489lqf",
+          "nf5ryyabp",
+          "nhpgimzbz",
+          "n7533myrx"
+        ],
+        "parent": null,
+        "sizeFactor": 1,
+        "font": "sans",
+        "spacing": 0.06,
+        "uppercase": true,
+        "width": 2,
+        "opacity": 0.05,
+        "showLabel": true,
+        "yOffset": 0
       }
     ]
   },
