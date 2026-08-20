@@ -1866,28 +1866,23 @@
       }
     },
     "catRank": {
-      "kreis": 2,
-      "stadt": 3,
-      "frei_text": 8,
-      "attraktion": 8,
-      "kommune": 3,
+      "frei_text": 5,
       "stadtgebiet": 3,
-      "dorf": 4,
-      "stadtteil": 4,
-      "hauptstrasse": 3
+      "dorf": 3,
+      "hauptstrasse": 2,
+      "kolonie": 2,
+      "bahnhofpoi": 4
     },
     "levelMin": 60,
     "levelMax": 3000,
     "levelAnchors": [
       2204,
-      578,
-      267,
-      166,
-      107,
-      94,
-      80,
-      65
+      606,
+      314,
+      155,
+      80
     ],
-    "levelModel": "kante"
+    "levelModel": "kante",
+    "levelCount": 5
   }
 }
