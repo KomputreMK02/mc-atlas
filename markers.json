@@ -210,7 +210,7 @@
         {
           "id": "e9qrdpn10",
           "category": "schloss",
-          "text": "St. Darmianus",
+          "text": "Apostolischer Palast",
           "detail": "",
           "labelOnly": true,
           "x": -467,
@@ -223,9 +223,9 @@
           "uppercase": false,
           "yOffset": 0,
           "color": [
-            235,
-            235,
-            235
+            160,
+            110,
+            210
           ]
         }
       ]
