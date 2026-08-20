@@ -206,6 +206,27 @@
           "uppercase": false,
           "icon": "attraktion",
           "yOffset": 66
+        },
+        {
+          "id": "e9qrdpn10",
+          "category": "schloss",
+          "text": "St. Darmianus",
+          "detail": "",
+          "labelOnly": true,
+          "x": -467,
+          "y": 95,
+          "z": -534,
+          "sizeFactor": 1.35,
+          "distFactor": 1,
+          "font": "papyrus",
+          "spacing": 0.04,
+          "uppercase": false,
+          "yOffset": 0,
+          "color": [
+            235,
+            235,
+            235
+          ]
         }
       ]
     },
