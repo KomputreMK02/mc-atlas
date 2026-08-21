@@ -49,6 +49,21 @@
             140,
             230
           ]
+        },
+        {
+          "id": "e18hbcqm9",
+          "category": "see",
+          "text": "Lago di Aufseß",
+          "detail": "",
+          "labelOnly": true,
+          "x": -892,
+          "y": 62,
+          "z": -694,
+          "sizeFactor": 1,
+          "font": "papyrus",
+          "spacing": 0.04,
+          "uppercase": false,
+          "yOffset": 0
         }
       ]
     },
